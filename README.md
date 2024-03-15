@@ -6,8 +6,8 @@
   The company aims to address the following inquiries:
 
    1. Identification of Significant Variables: Determining the key variables that play a significant role in predicting the demand for shared electric cycles within the Indian market.
-   2. 
-   3. Evaluation of Variable Efficacy: Assessing how well the identified variables collectively describe the fluctuations and patterns observed in electric cycle demand.
+      
+   2. Evaluation of Variable Efficacy: Assessing how well the identified variables collectively describe the fluctuations and patterns observed in electric cycle demand.
       
 ## Dataset Information:
 ### Source:

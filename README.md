@@ -1,0 +1,3 @@
+# Yulu-Hypothesis-Testing
+  - Yulu is India’s leading micro-mobility service provider, which offers unique vehicles for the daily commute. Starting off as a mission to eliminate traffic congestion in India, Yulu provides the safest commute solution through a user-friendly mobile app to enable shared, solo and sustainable commuting.
+  - Strategically positioned Yulu zones span key locations such as metro stations, bus stands, residential areas, corporate offices, and commercial hubs.This network ensures seamless connectivity for commuters, making the first and last miles of their journey smooth, cost-effective, and hassle-free.

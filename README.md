@@ -34,3 +34,15 @@
 - casual: count of casual users
 - registered: count of registered users
 - count: count of total rental bikes including both casual and registered
+  
+## Key Highlights:
+### Exploratory Data Analysis:
+- Overview of the dataset.
+- Summary of observations and insights gained.
+- Description of data preprocessing steps.
+- Visualizations included in the analysis.
+### Hypothesis Testing:
+- Summary of hypothesis tests performed.
+- Key findings and implications.
+### Conclusion:
+-Summary of key insights and recommendations.

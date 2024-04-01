@@ -45,4 +45,4 @@
 - Summary of hypothesis tests performed.
 - Key findings and implications.
 ### Conclusion:
--Summary of key insights and recommendations.
+- Summary of key insights and recommendations.
